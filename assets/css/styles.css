@@ -68,7 +68,7 @@ a:link { color: royalblue; }
 a:visited { color: purple; }
 a:focus { color: black; }
 a:hover { color: green; }
-a:active { color: red; }
+a:active { color: #1874cd; }
 
 /* -----------------------
 Layout styles
@@ -157,7 +157,7 @@ Nav
 .nav a:active
 {
 	color: white;
-	background-color: red;
+	background-color: #1874cd;
 }
 
 /* -----------------------
