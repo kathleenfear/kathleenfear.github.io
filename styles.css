@@ -134,6 +134,14 @@ Nav
 .nav a:link { color: white; }
 .nav a:visited { color: white; }
 
+.header a
+{
+    text-decoration: none;
+}
+
+.header a:link { color: white; }
+.header a:visited { color: white; }
+
 .nav a:focus
 {
 	color: black;
